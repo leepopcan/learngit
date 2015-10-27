@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changs of ifles.
 Creating a new branch is quick and simple.
 With --no--ff
+Working with issue.
