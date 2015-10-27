@@ -5,3 +5,4 @@ Git tracks changs of ifles.
 Creating a new branch is quick and simple.
 With --no--ff
 Working with issue.
+Working with stash.
