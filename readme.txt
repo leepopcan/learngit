@@ -8,3 +8,5 @@ Working with issue.
 Working with stash.
 master branch state 0
 master branch state 1
+mywork state 0
+mywork state 1
