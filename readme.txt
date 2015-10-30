@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 With --no--ff
 Working with issue.
 Working with stash.
+master branch state 0
