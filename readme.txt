@@ -14,3 +14,4 @@ mywork state 1
 master 0
 master 1
 remote 0
+remote 1
