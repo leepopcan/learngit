@@ -7,3 +7,4 @@ With --no--ff
 Working with issue.
 Working with stash.
 mywork state 0
+mywork state 1
