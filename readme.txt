@@ -12,3 +12,4 @@ mywork state 0
 mywork state 1
 
 master 0
+master 1
