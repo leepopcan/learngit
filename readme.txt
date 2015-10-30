@@ -7,3 +7,4 @@ With --no--ff
 Working with issue.
 Working with stash.
 master branch state 0
+master branch state 1
